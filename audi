@@ -3,8 +3,8 @@
   "contact": "https://discord.gg/yWpC279P",
   "canvas_offset": { "x": 500, "y": 0 },
   "targets": {
-	"UGA Banner Mask": 20,
-	"Furry_irl": 0,
+	"UGA Banner Mask": 0,
+	"Furry_irl": 20,
 	"Project Moon": 0
   },
   "templates": [
