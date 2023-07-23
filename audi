@@ -4,8 +4,8 @@
   "canvas_offset": { "x": 500, "y": 0 },
   "targets": {
 	"UGA Banner Mask": 0,
-	"Furry_irl": 20,
-	"Project Moon": 0
+	"Furry_irl": 0,
+	"Project Moon": 20
   },
   "templates": [
 	{
