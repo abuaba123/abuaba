@@ -1,0 +1,52 @@
+{
+  "faction": "r/Project_Moon/",
+  "contact": "https://discord.gg/yWpC279P",
+  "canvas_offset": { "x": 500, "y": 0 },
+  "targets": {
+	"UGA Banner Mask": 20,
+	"Furry_irl": 0,
+	"Project Moon": 0
+  },
+  "templates": [
+	{
+      "name": "Project Moon",
+      "sources": ["https://cdn.discordapp.com/attachments/1131716412856078396/1132463599361724497/NewCanvas8.png"],
+      "x": 987,
+      "y": 1910
+    },
+	{
+		"name": "Distortion Detective",
+     	"sources": ["https://cdn.discordapp.com/attachments/1131744159854768130/1132679586845565139/NewCanvas1.png"],
+    	"x": 1484,
+    	"y": 1930
+    }
+  ],
+  "whitelist": [
+    {
+      "name": "UGA",
+      "url": "https://gachaalliance.github.io/place2023/template.json"
+    },
+	{
+      "name": "r/Sky",
+      "url": "https://gist.githubusercontent.com/RedBread7576/6aef3b1d977925667c2886f4851c89e0/raw"
+    },
+	{
+      "name": "r/FRC",
+      "url": "https://rentry.co/FIRST-r-place/raw"
+    },
+	{
+      "name": "PASTA",
+      "url": "https://rentry.co/PASTAPlace/raw"
+    },
+	{ 
+		"name": "r/Furry_IRL",
+		"url": "https://gist.githubusercontent.com/Furryirlburner1/09ce4195fada18db6dc5e32e30a8e34b/raw"
+	}
+  ],
+  "blacklist": [
+	{
+      "name": "Project Moon - Outdated",
+      "url": "https://raw.githubusercontent.com/GEND1ARMER4/PMreddit/main/PM"
+    }
+  ]
+}
